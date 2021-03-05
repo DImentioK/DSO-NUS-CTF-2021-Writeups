@@ -41,3 +41,11 @@ Trying all the potential candidates for the second argument, we find that ``3896
 '5137e2ead70710512aa82dfca8727c4eb6803637143a9c2f0c7596ab00352a69'
 ```
 The flag is therefore ``DSO-NUS{5137e2ead70710512aa82dfca8727c4eb6803637143a9c2f0c7596ab00352a69}``
+
+
+## Additional Info
+Instead of solving the math problems via bruteforce, we can find the sequences on google. \
+For the first trial, googling 'sum of cubes of digits equal to itself' will lead to finding out the problem happens to be a special case of the Armstrong numbers (for three digits), which will allow us to find that 407 is the only such number in the range 400 to 1000. \
+For the second trial, some copying of initial terms from our bruteforcer allows us to find the Kaprekar numbers on OEIS, which happen to describe the sequence of numbers satisfing the very condition for function 2!  \
+
+
