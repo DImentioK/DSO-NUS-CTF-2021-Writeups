@@ -1,0 +1,171 @@
+SEQUENCE
+  SEQUENCE
+    [0]
+      INTEGER 02..(total 1bytes)..02
+    INTEGER 00d00c9e1b687e2639..(total 9bytes)..00d00c9e1b687e2639
+    SEQUENCE
+      ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+      NULL
+    SEQUENCE
+      SET
+        SEQUENCE
+          ObjectIdentifier commonName (2 5 4 3)
+          UTF8String 'Sighhh'
+      SET
+        SEQUENCE
+          ObjectIdentifier organizationName (2 5 4 10)
+          UTF8String 'DSO-NUS-CTF-2021'
+      SET
+        SEQUENCE
+          ObjectIdentifier countryName (2 5 4 6)
+          PrintableString 'SG'
+    SEQUENCE
+      UTCTime 210222160147Z
+      UTCTime 220222160147Z
+    SEQUENCE
+      SET
+        SEQUENCE
+          ObjectIdentifier commonName (2 5 4 3)
+          UTF8String 'Sighhh'
+      SET
+        SEQUENCE
+          ObjectIdentifier organizationName (2 5 4 10)
+          UTF8String 'DSO-NUS-CTF-2021'
+      SET
+        SEQUENCE
+          ObjectIdentifier countryName (2 5 4 6)
+          PrintableString 'SG'
+    SEQUENCE
+      SEQUENCE
+        ObjectIdentifier rsaEncryption (1 2 840 113549 1 1 1)
+        NULL
+      BITSTRING, encapsulates
+        SEQUENCE
+          INTEGER 00aeb08f314263a2ef6d8d651092b64ededc3f96f0828b71a55ebdbc3de1041fe98b53cdde3c1add3d302420560fdaa45e52c80298a7d5036e8b424636cef36d87fa646a4e5635c8b5cbd310a2d919a52ae2adb3b47bd7ac7ab6dc3acfd257adfe2ed0f10e02b453267c3173afec4b9e0e3975ca2b07cd46085bddf561b8af547ef656727d6965fab3c4fde2b50259337b1a2eb290b1b356e490e0eca21bd7b1fd8a7db1b50add680384ece7d2d5fdd06d42fedc2854b0aa8f90692c801bef46e1ab53e44895519f3412fe40294514ee2f939937cae5520f3d75fdca4f8d3fb62670e77b45540edcbcea16676b36b2a71f3d969d4e9914ceb09784017ff90c78b5..(total 257bytes)..00aeb08f314263a2ef6d8d651092b64ededc3f96f0828b71a55ebdbc3de1041fe98b53cdde3c1add3d302420560fdaa45e52c80298a7d5036e8b424636cef36d87fa646a4e5635c8b5cbd310a2d919a52ae2adb3b47bd7ac7ab6dc3acfd257adfe2ed0f10e02b453267c3173afec4b9e0e3975ca2b07cd46085bddf561b8af547ef656727d6965fab3c4fde2b50259337b1a2eb290b1b356e490e0eca21bd7b1fd8a7db1b50add680384ece7d2d5fdd06d42fedc2854b0aa8f90692c801bef46e1ab53e44895519f3412fe40294514ee2f939937cae5520f3d75fdca4f8d3fb62670e77b45540edcbcea16676b36b2a71f3d969d4e9914ceb09784017ff90c78b5
+          INTEGER 010001..(total 3bytes)..010001
+    [3]
+      SEQUENCE
+        SEQUENCE
+          ObjectIdentifier (2 5 19 67 65 49)
+          OCTETSTRING, encapsulates
+            SEQUENCE
+              SEQUENCE
+                [0]
+                  INTEGER 02..(total 1bytes)..02
+                INTEGER 0088df349a31acca96..(total 9bytes)..0088df349a31acca96
+                SEQUENCE
+                  ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+                  NULL
+                SEQUENCE
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier commonName (2 5 4 3)
+                      UTF8String 'Sighhh'
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier organizationName (2 5 4 10)
+                      UTF8String 'DSO-NUS-CTF-2021'
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier countryName (2 5 4 6)
+                      PrintableString 'SG'
+                SEQUENCE
+                  UTCTime 210222155934Z
+                  UTCTime 220222155934Z
+                SEQUENCE
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier commonName (2 5 4 3)
+                      UTF8String 'Sighhh'
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier organizationName (2 5 4 10)
+                      UTF8String 'DSO-NUS-CTF-2021'
+                  SET
+                    SEQUENCE
+                      ObjectIdentifier countryName (2 5 4 6)
+                      PrintableString 'SG'
+                SEQUENCE
+                  SEQUENCE
+                    ObjectIdentifier rsaEncryption (1 2 840 113549 1 1 1)
+                    NULL
+                  BITSTRING, encapsulates
+                    SEQUENCE
+                      INTEGER 00d4be1560dcb88745f30c23a4efb768b04bc7413c439673a39b97b160033f3c97ff28fffcc3c247a65da99bdb5040094f8d84cd98c2806e0bca0c33231b951d4bd1c0f162c02cf87a220dff6dacf0a2d8708b4463832e1d16789f79e09f3d21e70a4bde7bd9606449f16ac6a45c0896847e57640dd8b581f4330c7ef6db34a9299822a3b4a7f56f6c926da1ee3620ea18788c23c4153eb22ee8f6d1d373f1fe6b12e45c3334b7d9dad7529264fc7009801408c9462a50436620612094ad3b0aaa19572ffcc03f2e3769931c7388d494c9fa8406ef3646dcef6f4def8cbe81b38ebcdc57c7ab34da93824d5f860985afd5994138a7a5bf6d119b50edc4cc51db2f..(total 257bytes)..00d4be1560dcb88745f30c23a4efb768b04bc7413c439673a39b97b160033f3c97ff28fffcc3c247a65da99bdb5040094f8d84cd98c2806e0bca0c33231b951d4bd1c0f162c02cf87a220dff6dacf0a2d8708b4463832e1d16789f79e09f3d21e70a4bde7bd9606449f16ac6a45c0896847e57640dd8b581f4330c7ef6db34a9299822a3b4a7f56f6c926da1ee3620ea18788c23c4153eb22ee8f6d1d373f1fe6b12e45c3334b7d9dad7529264fc7009801408c9462a50436620612094ad3b0aaa19572ffcc03f2e3769931c7388d494c9fa8406ef3646dcef6f4def8cbe81b38ebcdc57c7ab34da93824d5f860985afd5994138a7a5bf6d119b50edc4cc51db2f
+                      INTEGER 010001..(total 3bytes)..010001
+                [3]
+                  SEQUENCE
+                    SEQUENCE
+                      ObjectIdentifier (2 5 19 67 65 50)
+                      OCTETSTRING, encapsulates
+                        SEQUENCE
+                          SEQUENCE
+                            [0]
+                              INTEGER 02..(total 1bytes)..02
+                            INTEGER 00f7f77e2e3e131585..(total 9bytes)..00f7f77e2e3e131585
+                            SEQUENCE
+                              ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+                              NULL
+                            SEQUENCE
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier commonName (2 5 4 3)
+                                  UTF8String 'Sighhh'
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier organizationName (2 5 4 10)
+                                  UTF8String 'DSO-NUS-CTF-2021'
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier countryName (2 5 4 6)
+                                  PrintableString 'SG'
+                            SEQUENCE
+                              UTCTime 210222154936Z
+                              UTCTime 220222154936Z
+                            SEQUENCE
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier commonName (2 5 4 3)
+                                  UTF8String 'Sighhh'
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier organizationName (2 5 4 10)
+                                  UTF8String 'DSO-NUS-CTF-2021'
+                              SET
+                                SEQUENCE
+                                  ObjectIdentifier countryName (2 5 4 6)
+                                  PrintableString 'SG'
+                            SEQUENCE
+                              SEQUENCE
+                                ObjectIdentifier rsaEncryption (1 2 840 113549 1 1 1)
+                                NULL
+                              BITSTRING, encapsulates
+                                SEQUENCE
+                                  INTEGER 00cacc913eb7be406a5542246386f8ec3a344afca1ccba79caf949638642c4556e6c9bd4c9fea5cbfd0d29d3ddf1547b218d14dbb3865ccfec675736a85d0f041e98feef1c44ae2fdf024dce7c76064c5e546862c41b12ccdded931086bb69494baf3b235046b48016598f3da4adea5f5d94751a397f5e036cb36f98bec44eb7da0d57f972bbacccc07b432afe370312b1bff2f2d6e4700cd95f4b93a72581d5b41b3b2070c64d5363280889123b517a170ae3af3fe6f54a273f1b9dc572cc8eedb3f350e2236e50ce389d466ad5109fa02929602a3ada4c4d36a0af9d1e54412c1332804c08ddd9d6a24e25cdcb7947c31647c93feeb5f6cd144ab7b757230967..(total 257bytes)..00cacc913eb7be406a5542246386f8ec3a344afca1ccba79caf949638642c4556e6c9bd4c9fea5cbfd0d29d3ddf1547b218d14dbb3865ccfec675736a85d0f041e98feef1c44ae2fdf024dce7c76064c5e546862c41b12ccdded931086bb69494baf3b235046b48016598f3da4adea5f5d94751a397f5e036cb36f98bec44eb7da0d57f972bbacccc07b432afe370312b1bff2f2d6e4700cd95f4b93a72581d5b41b3b2070c64d5363280889123b517a170ae3af3fe6f54a273f1b9dc572cc8eedb3f350e2236e50ce389d466ad5109fa02929602a3ada4c4d36a0af9d1e54412c1332804c08ddd9d6a24e25cdcb7947c31647c93feeb5f6cd144ab7b757230967
+                                  INTEGER 010001..(total 3bytes)..010001
+                            [3]
+                              SEQUENCE
+                                SEQUENCE
+                                  ObjectIdentifier (2 5 19 80 65 82 84 51)
+                                  BOOLEAN TRUE
+                                  OCTETSTRING 1b325890cfd34c8cd9013f99dab1a87efa363a6f3df21273f31c5711241077b0f2d49cc66c7358fde0f9b37a5a99e70f3e75ff8cff64aef4fd3ac5188e498fffe1ff67994ce045222883675e893d04e59c8d89c83d29f2256b6f2e2347da9f85ae4c88a8d5071a4845bcf6001d70381b6375f8e0df1816eb62688e30b23ba47b9bbf8b24f3a40d98e213cca635336a6b8ecbb020add4df5a3df2175bfde216bb60cb70510b317e2e96a0e7d61365af1abfd027dd2d6a3adcd22d7c737c0b30d17ea465414015b26a7bf98b8120eadd9135b87e82ba90fd793bd481392eb11308ef3ed8908d1f022fa925f3e6c5d2bd503fc10301b3efcfc61c627b05463b8d48..(total 256bytes)..1b325890cfd34c8cd9013f99dab1a87efa363a6f3df21273f31c5711241077b0f2d49cc66c7358fde0f9b37a5a99e70f3e75ff8cff64aef4fd3ac5188e498fffe1ff67994ce045222883675e893d04e59c8d89c83d29f2256b6f2e2347da9f85ae4c88a8d5071a4845bcf6001d70381b6375f8e0df1816eb62688e30b23ba47b9bbf8b24f3a40d98e213cca635336a6b8ecbb020add4df5a3df2175bfde216bb60cb70510b317e2e96a0e7d61365af1abfd027dd2d6a3adcd22d7c737c0b30d17ea465414015b26a7bf98b8120eadd9135b87e82ba90fd793bd481392eb11308ef3ed8908d1f022fa925f3e6c5d2bd503fc10301b3efcfc61c627b05463b8d48
+                          SEQUENCE
+                            ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+                            NULL
+                          BITSTRING 00b2d2d33bfc075867664a898193b6f71167bee352cc688a3784796131b1b865785d4ca95a68823807fdc911db8aeae947a658194ecf0ee754ff53fbfa0d893fa41e7cc4b6e86bf8d03848c78aec105af233eb09da1b45903dbcd0babe660ddbfa6d653bfbe8a24bd19383073c76276b3c315de1ac12678a783db4dd1d8991be2ed6bd62b5c36a148ba18addcf926c5fdcc34242fec4e364b76023b58dea192a0304dfe656027f4566602cecf8c13f93f30720ed478a40a376dcd5695390b0736f4ef982fd15b3e50cd15029127c184561eabaffe62c2616b1822cbc01f0b5c3df3c4b269020838bf85dad89c15f5da502e12ac6eeebd8e76d5552cf73fe8497a1..(total 257bytes)..00b2d2d33bfc075867664a898193b6f71167bee352cc688a3784796131b1b865785d4ca95a68823807fdc911db8aeae947a658194ecf0ee754ff53fbfa0d893fa41e7cc4b6e86bf8d03848c78aec105af233eb09da1b45903dbcd0babe660ddbfa6d653bfbe8a24bd19383073c76276b3c315de1ac12678a783db4dd1d8991be2ed6bd62b5c36a148ba18addcf926c5fdcc34242fec4e364b76023b58dea192a0304dfe656027f4566602cecf8c13f93f30720ed478a40a376dcd5695390b0736f4ef982fd15b3e50cd15029127c184561eabaffe62c2616b1822cbc01f0b5c3df3c4b269020838bf85dad89c15f5da502e12ac6eeebd8e76d5552cf73fe8497a1
+                    SEQUENCE
+                      ObjectIdentifier (2 5 19 80 65 82 84 50)
+                      BOOLEAN TRUE
+                      OCTETSTRING 232504a277c6496d889495b63edccf538566f603fb51eb91df3b5129503c9e2b5c5f0dcc2f2e9eb2a8f6ccce2478133a907d5d1585c8e07f8c32d068c953c37dd5a9eff1e43ef1a1eea1967cfeb715ded1acf4f78f00b2a67ee3279449d4417e3edaea513a9a8e2e828da89475b5550ecea2746915883e5d68514a9ac1d62b98542e7524660faa831c209b9538816060265eb9feb2fa702b6eb3a883656a4a1082975f0484550f0d36aac27c6bb2abfb086b511701737292595bf8bf1517ab0fd55f9bcca3391589dfb7a6ed834181bbad084f613acbb0a02387982c71ad65c55b7ea5ebf6e7d9d975c40e307583661ff6fb00b3cb51c19f101aa8eb78707c32..(total 256bytes)..232504a277c6496d889495b63edccf538566f603fb51eb91df3b5129503c9e2b5c5f0dcc2f2e9eb2a8f6ccce2478133a907d5d1585c8e07f8c32d068c953c37dd5a9eff1e43ef1a1eea1967cfeb715ded1acf4f78f00b2a67ee3279449d4417e3edaea513a9a8e2e828da89475b5550ecea2746915883e5d68514a9ac1d62b98542e7524660faa831c209b9538816060265eb9feb2fa702b6eb3a883656a4a1082975f0484550f0d36aac27c6bb2abfb086b511701737292595bf8bf1517ab0fd55f9bcca3391589dfb7a6ed834181bbad084f613acbb0a02387982c71ad65c55b7ea5ebf6e7d9d975c40e307583661ff6fb00b3cb51c19f101aa8eb78707c32
+              SEQUENCE
+                ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+                NULL
+              BITSTRING 0032758ce81076a89b6f57e231e248e3c4cffbb311106e7a9209f6a2801b3071d10bc31b3dc0e5340df98b1051da60657f1c76e7b1d61cc941f0b6f66fbad65543d936892d37a0b6c71d6f3ba5f089dd3013eb1aec771f8c2ed5abe1554669556f262fb513c5935b408c553b077ef7b406d7a22541c158595292037adec7383d41ade1740b09e0b991ba74480df96139ba4a6e828e67689cc2a0977fcc867fa00e549bcc9572c505f3c8d426a3be739f029bca68106be96fba65c2d02df4b877ba7ce59a18d74bf7c1ce2eba16508f32f97d73e03e726ee829fd6463abf8710dd206f43d7d6c0c04703cdd7b9709ee5aaba5d47b0b07085af4826bfc6641d69c70..(total 257bytes)..0032758ce81076a89b6f57e231e248e3c4cffbb311106e7a9209f6a2801b3071d10bc31b3dc0e5340df98b1051da60657f1c76e7b1d61cc941f0b6f66fbad65543d936892d37a0b6c71d6f3ba5f089dd3013eb1aec771f8c2ed5abe1554669556f262fb513c5935b408c553b077ef7b406d7a22541c158595292037adec7383d41ade1740b09e0b991ba74480df96139ba4a6e828e67689cc2a0977fcc867fa00e549bcc9572c505f3c8d426a3be739f029bca68106be96fba65c2d02df4b877ba7ce59a18d74bf7c1ce2eba16508f32f97d73e03e726ee829fd6463abf8710dd206f43d7d6c0c04703cdd7b9709ee5aaba5d47b0b07085af4826bfc6641d69c70
+        SEQUENCE
+          ObjectIdentifier (2 5 19 80 65 82 84 49)
+          BOOLEAN TRUE
+          OCTETSTRING 30ea0eeedfd9db2d0fa4c9e4c809c5785c713e73be94ab832e325d94479b9bcc807163ae8ca588cdcb4fb551e29b6fd2705fc2e100088a4ee4185887073d3f935259366ee7538e738f8ff018633e2d71afa6b18c68cc8c8df542b9cdf2904a3650010985aeb28098932c6556655a9cf8bd8709932a83861bf1ae4031d70e25a0d5d6e650f484a49c9f64c3e04dd0120aa65c892d69c409cd292d0932fbe6ec1458fc24c79336e208fa8f6ca42708231b64fb1227c2f597231f625a7b9f97edf0b0f690500049b92236c935d61573aae5064458b02435d4c332ca77d939023c18a9e58f06ca5595c797c129098c858c09fb2a3fcee8ef7aff739110d7cc2d2c32..(total 256bytes)..30ea0eeedfd9db2d0fa4c9e4c809c5785c713e73be94ab832e325d94479b9bcc807163ae8ca588cdcb4fb551e29b6fd2705fc2e100088a4ee4185887073d3f935259366ee7538e738f8ff018633e2d71afa6b18c68cc8c8df542b9cdf2904a3650010985aeb28098932c6556655a9cf8bd8709932a83861bf1ae4031d70e25a0d5d6e650f484a49c9f64c3e04dd0120aa65c892d69c409cd292d0932fbe6ec1458fc24c79336e208fa8f6ca42708231b64fb1227c2f597231f625a7b9f97edf0b0f690500049b92236c935d61573aae5064458b02435d4c332ca77d939023c18a9e58f06ca5595c797c129098c858c09fb2a3fcee8ef7aff739110d7cc2d2c32
+  SEQUENCE
+    ObjectIdentifier SHA256withRSA (1 2 840 113549 1 1 11)
+    NULL
+  BITSTRING 00901d437b7332e4656c269ec1e54b64fec91be349e9735d36fec575d6578ecb5bca92ddf046c32bc4254f42ce52efd64f086721f95aff9b8eeab2a7ba8cc2e50cffb583ae0f4f57a4e711d44872b6daf036f2d93effa4a49c9b14b7cd2820eff37acbaaa8dcc22f9b470fef02e822a9cf562d47d2e159a31bba31f68c6ac6d80db1841e93a91b6c083957f3e076838c1465896bb4c13fcb11875f82c059ba316e6da03886fa0905b7725a81f47d23767b9c8c2d893c585d2741a59589841c539630396b8a96e46f3fe367951df804eaef0bf35b93b240de907b9686157bde4fe8c17d081650e4d90ccf78cdffdc15886a34cde42432e6a3418ae0110e8191da38..(total 257bytes)..00901d437b7332e4656c269ec1e54b64fec91be349e9735d36fec575d6578ecb5bca92ddf046c32bc4254f42ce52efd64f086721f95aff9b8eeab2a7ba8cc2e50cffb583ae0f4f57a4e711d44872b6daf036f2d93effa4a49c9b14b7cd2820eff37acbaaa8dcc22f9b470fef02e822a9cf562d47d2e159a31bba31f68c6ac6d80db1841e93a91b6c083957f3e076838c1465896bb4c13fcb11875f82c059ba316e6da03886fa0905b7725a81f47d23767b9c8c2d893c585d2741a59589841c539630396b8a96e46f3fe367951df804eaef0bf35b93b240de907b9686157bde4fe8c17d081650e4d90ccf78cdffdc15886a34cde42432e6a3418ae0110e8191da38
