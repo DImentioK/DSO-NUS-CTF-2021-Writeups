@@ -57,6 +57,7 @@ The core loop simply finds the sum of all factors of the input, excluding itself
 
 ## Dynamic Analysis
 Trying the potential candidates for the second parameter in order, we find that ``38962`` is accepted. The correct set of parameters is hence ``407 38962 33550336``
+
 ![func_win](./func_win.png)
 
 Doing as instructed:
